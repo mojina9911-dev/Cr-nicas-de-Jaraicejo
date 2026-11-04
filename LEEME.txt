@@ -1,0 +1,74 @@
+CRÓNICAS DE JARAICEJO — WEB MEDIEVAL
+====================================
+
+¡Gracias por utilizar esta web! Está preparada para publicarse gratuitamente.
+El diseño está inspirado en la estética medieval del siglo XV. Los textos históricos
+y biográficos que necesitan confirmación se han dejado preparados para completar,
+para no publicar datos no verificados.
+
+1. CÓMO VER LA WEB EN TU ORDENADOR
+----------------------------------
+- Descomprime el archivo ZIP en una carpeta.
+- Abre la carpeta.
+- Haz doble clic en index.html.
+- Se abrirá la página principal en tu navegador.
+
+2. CÓMO AÑADIR TUS FOTOGRAFÍAS
+------------------------------
+Abre la carpeta assets/images y copia tus fotos allí. Para que aparezcan en los
+espacios previstos, utiliza estos nombres de archivo:
+
+portada.jpg             Foto principal de la portada.
+cronicas-portada.jpg    Foto principal de Crónicas de Jaraicejo.
+golfines-portada.jpg    Foto principal de El ataque de los Golfines.
+galeria-01.jpg          Foto para la primera casilla de la galería.
+galeria-02.jpg          Foto para la segunda casilla de la galería.
+galeria-03.jpg          Foto para la tercera casilla de la galería.
+galeria-04.jpg          Foto para la cuarta casilla de la galería.
+
+Consejos:
+- Utiliza fotografías JPG o JPEG.
+- Es mejor que las fotos tengan buena calidad y orientación horizontal para portadas.
+- Si una foto tiene otro nombre, puedes renombrarla con uno de los nombres anteriores.
+- Conserva una copia de las fotografías originales.
+- Asegúrate de contar con permiso para publicar las fotos de las personas que aparecen.
+
+3. CÓMO CAMBIAR LOS TEXTOS
+--------------------------
+Puedes editar los archivos .html con un editor de texto sencillo, por ejemplo
+Bloc de notas. Busca el texto que quieras cambiar y sustitúyelo con cuidado.
+No borres las etiquetas <...> que rodean el texto.
+
+Páginas:
+index.html            Portada y presentación general.
+cronicas.html         Página de Crónicas de Jaraicejo.
+golfines.html         Página de El ataque de los Golfines.
+ana-torres-leon.html  Página dedicada a Ana Torres León.
+
+4. CÓMO PUBLICARLA GRATIS
+-------------------------
+Una opción gratuita es GitHub Pages:
+- Crea una cuenta en https://github.com/
+- Crea un repositorio nuevo y público.
+- Sube el contenido de esta carpeta (no el ZIP) al repositorio.
+- En Settings > Pages, elige publicar desde la rama principal (main) y la carpeta raíz.
+- Guarda los cambios. GitHub te facilitará la dirección pública de la web.
+
+La interfaz de GitHub puede cambiar. Si quieres, puedo guiarte paso a paso cuando
+llegue el momento de publicarla.
+
+5. DATOS PENDIENTES DE INCORPORAR
+---------------------------------
+- Biografía autorizada de Ana Torres León.
+- Argumento oficial y datos históricos de cada obra.
+- Nombres y créditos de actores, equipo y colaboradores.
+- Correo de contacto y página de Facebook.
+- Fotografías y vídeos facilitados por la organización.
+
+6. REDES
+--------
+Instagram: https://www.instagram.com/cronicasdejaraicejo/
+
+La web no necesita instalar ningún programa ni pagar alojamiento para probarla
+localmente. Para que otras personas puedan verla en Internet, hay que publicarla
+en un servicio de alojamiento.
